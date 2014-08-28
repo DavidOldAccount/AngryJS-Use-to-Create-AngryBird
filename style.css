@@ -1,0 +1,65 @@
+#gamecontainer{
+	width:640px;
+	height:480px;
+	background:url(images/splashscreen.jpg);/*This is the background*/
+	border:1px solid black;
+}
+.gamelayer{
+	width:640px;
+	height:480px;/*the game layer*/
+	position:absolute;
+	display:none;
+}
+#gamestartscreen{
+	padding-top:250px;
+	text-align:center;
+}
+#gamestartscreen img{
+	margin:10px;
+	cursor:pointer;
+}
+#levelselectscreen{
+	padding-top:150px;
+	padding-left:50px;
+}
+#levelselectscreen input{
+	margin:20px;
+	cursor:pointer;
+	background:url(images/icons/levelold.png) no-repeat;/*this is the icon of the level*/
+	color:green;
+	font-size:20px;
+	width:64px;
+	height:64px;
+	border:0;
+}
+#loadingscreen{
+	background:rgba(100, 100, 100, 0.3);
+}
+#loadingmessage{
+	margin-top:400px;
+	text-align:center;
+	height:48px;
+	color:white;
+	background:url(images/loader.gif) no-repeat center;
+	font:12px Arial;
+}
+#scorescreen{
+	height:60px;
+	font:32px Comic Sans MS;
+	text-shadow:0 0 2px #000;
+	color:white;
+}
+#scorescreen img{
+	opacity:0.6;
+	top:10px;
+	position:relative;
+	padding-left:10px;
+	cursor:pointer;
+}
+#scorescreen #score{
+	position:absolute;
+	top:5px;
+	right:20px;
+}
+
+/*More things will be added soon   :)*/
