@@ -2,6 +2,7 @@ AngryJS-Use-to-Create-AngryBird
 ===============================
 
 The Game Engine That Can Use To Make AngryBird Games.Include the support for ogg and mp3, mp4.
+Some images included : http://pan.baidu.com/s/1o6qjch0    
 
 Tutorial:
      Due to the engine being based on JQuery and Box2D, to use this engine, those software components need to be downloaded before you 
