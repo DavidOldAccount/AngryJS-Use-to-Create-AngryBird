@@ -1,17 +1,18 @@
 AngryJS-Use-to-Create-AngryBird
 ===============================
+The sentences that have [OLD] tag before them are written in an English-chinese basilect.
 
-The Game Engine That Can Use To Make AngryBird Games.Include the support for ogg and mp3, mp4.
-Some images included : http://pan.baidu.com/s/1o6qjch0    
+[OLD]The Game Engine That Can Use To Make AngryBird Games.Include the support for ogg and mp3, mp4.
+[NEW]This is a simple game framework that is capable of creating games similiar to angry bird and encompasses basic physics simulation.
+Some screenshots : http://pan.baidu.com/s/1o6qjch0    
 
 Tutorial:
-     Due to the engine being based on JQuery and Box2D, to use this engine, those software components need to be downloaded before you 
+[OLD]Due to the engine being based on JQuery and Box2D, to use this engine, those software components need to be downloaded before you 
 use the engine. For your convenience, here are the download links:
+[NEW]This game framework depends on JQuery and Box2D; thus, please include them in your webpage before running it.
 JQuery:  www.JQuery.com         Box2D:  www.box2d.com
 
-JQuery is a very important engine for JavaScript.  
-Box2D is a physics engine.
-
+[OLD]
 How to use AngryJS engine:
      First, open “skeleton.html”, then you’ll see a couple dozen lines of code which include the following game functions:
                
